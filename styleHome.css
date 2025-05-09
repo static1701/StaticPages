@@ -9,7 +9,7 @@
 /*Section 1*/
 .bg-section1{
     /* background-image: url(content/img/section1.jpg); */
-    background: linear-gradient(180deg, rgba(213, 213, 213, 0)0%,rgba(0,0,0,0.61)100%), url(content/img/section1.jpg);
+    background: linear-gradient(180deg, rgba(213, 213, 213, 0)0%,rgba(0,0,0,0.61)100%), url(../content/img/section1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
